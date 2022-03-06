@@ -5,7 +5,7 @@ Each container (person in list) holds index number (helps with adding element at
 
 container looks like:
 | index | Last name | First name |
-| sex   |  age                   |
+| sex   |  age      |            |
 
 Person is a class with data members written above and methods like ..* adding element at front, back or at specific position
                                                                    ..* deleting specific element or whole list
