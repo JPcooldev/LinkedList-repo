@@ -7,8 +7,9 @@ container looks like:
 index  Last name  First name 
  sex   age 
 
-Person is a class with data members written above and methods like * adding element at front, back or at specific position
-.................* deleting specific element or whole list
+Person is a class with data members written above and methods like 
+ * adding element at front, back or at specific position
+ * deleting specific element or whole list
  * printing a list
  * sorting aplhabeticaly
  
