@@ -1,4 +1,3 @@
 # Linked list
 
-School project 
-C++
+User add data such as *Name*, *sex* and *age*
