@@ -247,8 +247,6 @@ int main() {
     }   //while action
     
     std::cout << "Have a nice day\n";
-   
-    //blablabla
 
     return 0;
 }
